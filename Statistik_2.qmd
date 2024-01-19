@@ -578,7 +578,7 @@ Wir benötigen:
 Ein adäquater Ergebnistext könnte daher wie folgt lauten:
 
 :::{.callout}
-Die Variable *b* nahm hochsignifikant mit der Variablen *a* zu (Funktionsgleichung: $b = 5.02 + 0.42 * a$ , $F_{1,2} = 11.34$, $p = 0.010$, $R^2 = 0.586$.
+Die Variable *b* nahm hochsignifikant mit der Variablen *a* ab (Funktionsgleichung: $b = 25.60 +(-0.26323) * a$ , $F_{1,13} = 28.03$, $p = 0.0001453$, $R^2 = 0.6588$.
 :::
 
 Bei einem signifkanten Ergebnis bietet sich auch noch eine Visualisierung mittels Scatterplot an, in den die Regressionsgerade geplottet ist:
